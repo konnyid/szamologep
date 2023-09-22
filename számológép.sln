@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "számológép", "számológép\számológép.csproj", "{8BF0C165-F241-449D-83A9-1B0E1608A9CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF0C165-F241-449D-83A9-1B0E1608A9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF0C165-F241-449D-83A9-1B0E1608A9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF0C165-F241-449D-83A9-1B0E1608A9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF0C165-F241-449D-83A9-1B0E1608A9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5066FA-D0E8-4F85-BA04-37D99D0CDC6B}
+	EndGlobalSection
+EndGlobal
